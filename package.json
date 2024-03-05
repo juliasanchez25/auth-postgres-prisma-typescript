@@ -1,5 +1,5 @@
 {
-  "name": "auth-postgree-prisma-typescript",
+  "name": "auth-postgres-prisma-typescript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
